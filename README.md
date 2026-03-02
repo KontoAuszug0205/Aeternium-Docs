@@ -46,9 +46,3 @@ Ultimate Japanese Building Props Only
 - Author: MaeMei  
 - Replaces the texture of the Deco.  
 - Permissions granted in the DiscordServer Chat (ChannelID:946046331967922199) comment section.
-----
-Building Revamped Wood Only
-- https://www.nexusmods.com/palworld/mods/2442  
-- Author: MaeMei  
-- Replaces the texture of the Wood Wall.   
-- Permissions granted in the DiscordServer Chat (ChannelID:946046331967922199) comment section.
